@@ -24,7 +24,7 @@ public class BusinessDeviceRepositoryTest {
 
     @Test
     public void gitTest(){
-        System.err.println("2nd test for git");
+        System.err.println("3rd test for git");
     }
 
     @Test

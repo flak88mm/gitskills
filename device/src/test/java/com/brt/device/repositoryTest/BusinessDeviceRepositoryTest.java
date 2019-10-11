@@ -23,6 +23,11 @@ public class BusinessDeviceRepositoryTest {
     CameraDeviceRepository cameraDeviceRepository;
 
     @Test
+    public void gitTest(){
+        System.err.println("1st test for git");
+    }
+
+    @Test
     public void createBusinessDevice(){
         BusinessDevice businessDevice = new BusinessDevice();
         businessDevice.setCode("10000");
